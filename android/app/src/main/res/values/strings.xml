@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cartoonify AI</string>
+    <string name="title_activity_main">Cartoonify AI</string>
+    <string name="package_name">com.cartoonify.ai</string>
+    <string name="custom_url_scheme">com.cartoonify.ai</string>
+</resources>
